@@ -14,3 +14,4 @@ branch in cui ci si trova e i loro hashcode è: git log
      2) è molto comodo in caso si stia modificando un progetto e quest'ultimo non funzioni più      perchè grazie a GIT si può tornare allo stato funzionante del progetto che rimane salvato.
 
 7)La differenza tra git clone e git pull è  che git pull prende dalla repository online il progetto e te lo passa in locale se è più aggiornato della versione che hai in locale, mentre git clone ti fa a fare una copia della repository.
+8)Un branche in git è un ramo di sviluppo dove si possono effettuare delle modifiche senza andare ad intaccare il ramo principale(il main/master). Per creare un ramo bisogna usare il comando git checkout-b [nome del branch], per spostarsi in un branch basta fare git checkout [nome del branch], mentre invece per unire due branch bisogna fare git merge [nome del branch con cui unirsi].
