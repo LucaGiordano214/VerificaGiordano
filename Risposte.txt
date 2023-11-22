@@ -12,3 +12,5 @@ branch in cui ci si trova e i loro hashcode è: git log
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT:
     1) è molto comodo per il lavorod i squadra in quanto si può lavorare sullo stesso progetto      senza intralciarsi seguendo due branch differenti
      2) è molto comodo in caso si stia modificando un progetto e quest'ultimo non funzioni più      perchè grazie a GIT si può tornare allo stato funzionante del progetto che rimane salvato.
+
+7)La differenza tra git clone e git pull è  che git pull prende dalla repository online il progetto e te lo passa in locale se è più aggiornato della versione che hai in locale, mentre git clone ti fa a fare una copia della repository.
