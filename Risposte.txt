@@ -21,3 +21,5 @@ branch in cui ci si trova e i loro hashcode è: git log
 8)Un branche in git è un ramo di sviluppo dove si possono effettuare delle modifiche senza andare ad intaccare il ramo principale(il main/master). Per creare un ramo bisogna usare il comando git checkout-b [nome del branch], per spostarsi in un branch basta fare git checkout [nome del branch], mentre invece per unire due branch bisogna fare git merge [nome del branch con cui unirsi].
 
 9) non la so.
+
+10)Il ciclo della vita di un software è il periodo dall' analisi del problema per cui viene creato il software alla morte del software (quindi fino alla fine del suo utilizzo).
