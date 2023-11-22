@@ -2,3 +2,5 @@
 automaticamente con la repository online collegata.
 2)Il nuovo nome standard del branch principale utilizzato come
 convenzione in GIT è master.
+3)Come descriveresti il workflow dei comandi di GIT?
+    git add -> git commit -> git push
