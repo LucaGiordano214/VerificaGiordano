@@ -10,7 +10,7 @@ convenzione in GIT è master.
 4)Il comando da utilizzare per vedere l’elenco di tutte le commit del
 branch in cui ci si trova e i loro hashcode è: git log
 
-5)Il comando per effettuare il rollback ad una commit precedente è: git 
+5)Il comando per effettuare il rollback ad una commit precedente è: non lo so.
 
 6) Scrivi due motivazioni per giustificare l’utilizzo di GIT:
     1) è molto comodo per il lavorod i squadra in quanto si può lavorare sullo stesso progetto      senza intralciarsi seguendo due branch differenti
