@@ -6,3 +6,5 @@ convenzione in GIT è master.
     git add -> git commit -> git push
 4)Il comando da utilizzare per vedere l’elenco di tutte le commit del
 branch in cui ci si trova e i loro hashcode è: git log
+
+5)Il comando per effettuare il rollback ad una commit precedente è: //rispondo dopo
